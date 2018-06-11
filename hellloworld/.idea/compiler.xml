@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-comsumer" />
+        <module name="dubbo-producer" />
+        <module name="euraka-server" />
+        <module name="hellloworld" />
+        <module name="server-comsumer" />
+        <module name="server-producer" />
+        <module name="service-feign" />
+        <module name="service-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-comsumer" target="1.6" />
+      <module name="dubbo-producer" target="1.6" />
+      <module name="euraka-server" target="1.8" />
+      <module name="hellloworld" target="1.5" />
+      <module name="server-comsumer" target="1.8" />
+      <module name="server-producer" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

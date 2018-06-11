@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../hellloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/../hellloworld/euraka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../hellloworld/server-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/../hellloworld/server-comsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../hellloworld/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/../hellloworld/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../hellloworld/dubbo-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/../hellloworld/dubbo-comsumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../hellloworld/out" />
+  </component>
+</project>

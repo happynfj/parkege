@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hellloworld/dubbo-comsumer/dubbo-comsumer.iml" filepath="$PROJECT_DIR$/../hellloworld/dubbo-comsumer/dubbo-comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellloworld/dubbo-producer/dubbo-producer.iml" filepath="$PROJECT_DIR$/../hellloworld/dubbo-producer/dubbo-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellloworld/euraka-server/euraka-server.iml" filepath="$PROJECT_DIR$/../hellloworld/euraka-server/euraka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellloworld.iml" filepath="$PROJECT_DIR$/hellloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellloworld/server-comsumer/server-comsumer.iml" filepath="$PROJECT_DIR$/../hellloworld/server-comsumer/server-comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellloworld/server-producer/server-producer.iml" filepath="$PROJECT_DIR$/../hellloworld/server-producer/server-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellloworld/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/../hellloworld/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hellloworld/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/../hellloworld/service-zuul/service-zuul.iml" />
+    </modules>
+  </component>
+</project>
